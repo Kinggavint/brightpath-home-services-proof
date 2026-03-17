@@ -1,5 +1,5 @@
 /* Art direction: HVAC & Plumbing home services in Austin TX → Professional, trustworthy, modern
-   Palette: Navy blue primary (#1a2744), orange accent (#e8700a) for CTAs, light gray surfaces (#f5f6f8)
+   Palette: Blue primary (#1a3d6e), green accent (#1a8a4a) for CTAs, light gray surfaces (#f5f6f8)
    Typography: Clash Display (display) + DM Sans (body) — authoritative display with clean readable body
    Density: spacious — generous whitespace for trust, Apple/Stripe-inspired cleanliness */
 
@@ -51,22 +51,22 @@
   --color-border:         #c0c7d2;
 
   /* Text */
-  --color-text:           #1a2744;
+  --color-text:           #1a3044;
   --color-text-muted:     #5a6478;
   --color-text-faint:     #8e96a6;
   --color-text-inverse:   #ffffff;
 
   /* Primary (Navy) */
-  --color-primary:        #1a2744;
-  --color-primary-hover:  #0f1a30;
-  --color-primary-active: #0a1221;
-  --color-primary-highlight: #d8dde6;
+  --color-primary:        #1a3d6e;
+  --color-primary-hover:  #122c52;
+  --color-primary-active: #0d1f3d;
+  --color-primary-highlight: #d0dae8;
 
   /* Accent (Orange — for CTAs) */
-  --color-accent:         #e8700a;
-  --color-accent-hover:   #cf6309;
-  --color-accent-active:  #b55608;
-  --color-accent-highlight: #fde8d4;
+  --color-accent:         #1a8a4a;
+  --color-accent-hover:   #157a3f;
+  --color-accent-active:  #106a34;
+  --color-accent-highlight: #d2eedf;
 
   /* Success */
   --color-success:        #1a8a4a;
@@ -128,10 +128,10 @@
   --color-primary-active: #3a65a8;
   --color-primary-highlight: #1e2e4d;
 
-  --color-accent:         #f5933d;
-  --color-accent-hover:   #e8700a;
-  --color-accent-active:  #cf6309;
-  --color-accent-highlight: #2d2219;
+  --color-accent:         #3dbb72;
+  --color-accent-hover:   #2a9d5b;
+  --color-accent-active:  #1a8a4a;
+  --color-accent-highlight: #142d20;
 
   --color-success:        #3dbb72;
   --color-success-hover:  #2a9d5b;
@@ -171,10 +171,10 @@
     --color-primary-hover:  #4a78c2;
     --color-primary-active: #3a65a8;
     --color-primary-highlight: #1e2e4d;
-    --color-accent:         #f5933d;
-    --color-accent-hover:   #e8700a;
-    --color-accent-active:  #cf6309;
-    --color-accent-highlight: #2d2219;
+    --color-accent:         #3dbb72;
+    --color-accent-hover:   #2a9d5b;
+    --color-accent-active:  #1a8a4a;
+    --color-accent-highlight: #142d20;
     --color-success:        #3dbb72;
     --color-success-hover:  #2a9d5b;
     --color-success-active: #1a8a4a;
