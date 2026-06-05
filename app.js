@@ -60,7 +60,7 @@
       '<li><a href="#reviews" class="nav__link">Reviews</a></li>' +
       '<li><a href="#faq" class="nav__link">FAQ</a></li>' +
       '<li><a href="#contact" class="nav__link">Contact</a></li>' +
-      '<li><a href="#emergency" class="nav__link" style="color: var(--color-accent); font-weight:700;">Emergency: (512) 555-0199</a></li>' +
+      '<li><a href="#emergency" class="nav__link" style="color: var(--color-accent); font-weight:700;">Emergency: (512) 867-5309</a></li>' +
       "</ul>";
     document.body.appendChild(mobileNav);
 
@@ -178,7 +178,7 @@
         '<svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>' +
         "</div>" +
         "<h3>Request Sent!</h3>" +
-        "<p>Thank you! We'll get back to you within 1 business hour. For emergencies, call <a href=\"tel:5125550199\">(512) 555-0199</a>.</p>" +
+        "<p>Thank you! We'll get back to you within 1 business hour. For emergencies, call <a href=\"tel:5128675309\">(512) 867-5309</a>.</p>" +
         "</div>";
     });
   }

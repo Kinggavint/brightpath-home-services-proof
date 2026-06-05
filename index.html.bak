@@ -20,7 +20,7 @@
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="BrightPath Home Services provides expert HVAC and plumbing services in Austin, TX. Same-day service, upfront pricing, 24/7 emergency support. Call (512) 867-5309.">
+<meta name="description" content="BrightPath Home Services provides expert HVAC and plumbing services in Austin, TX. Same-day service, upfront pricing, 24/7 emergency support. Call (512) 555-0199.">
 <meta property="og:title" content="BrightPath Home Services &#8212; Fast, Friendly HVAC & Plumbing in Austin TX">
 <meta property="og:description" content="Expert HVAC and plumbing services in Austin, TX. Same-day appointments, upfront pricing, 24/7 emergency support.">
 <meta property="og:type" content="website">
@@ -46,7 +46,7 @@
   "@type": "HVACBusiness",
   "name": "BrightPath Home Services",
   "description": "Expert HVAC and plumbing services in Austin, TX",
-  "telephone": "(512) 867-5309",
+  "telephone": "(512) 555-0199",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Austin",
@@ -98,9 +98,9 @@
     </nav>
 
     <div class="header__actions">
-      <a href="tel:5128675309" class="btn btn--ghost btn--sm header__phone" aria-label="Call us at 512-867-5309">
+      <a href="tel:5125550199" class="btn btn--ghost btn--sm header__phone" aria-label="Call us at 512-555-0199">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-        <span>(512) 867-5309</span>
+        <span>(512) 555-0199</span>
       </a>
       <button class="theme-toggle" data-theme-toggle aria-label="Switch to dark mode">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
@@ -133,14 +133,14 @@
   </div>
   <div class="hero__content container">
     <div class="hero__badge">Austin's Trusted HVAC & Plumbing Experts</div>
-    <h1 class="hero__title">BUILT FOR GROWTH</h1>
+    <h1 class="hero__title">Fast, Friendly &<br> Done Right the<br> First Time.</h1>
     <p class="hero__subtitle">Expert HVAC and plumbing services for Austin homeowners. Same-day appointments, upfront pricing, and a done-right guarantee.</p>
     <div class="hero__ctas">
       <a href="#contact" class="btn btn--accent btn--lg">Book Now</a>
       <a href="#contact" class="btn btn--white btn--lg">Get a Quote</a>
-      <a href="tel:5128675309" class="btn btn--ghost-white btn--lg">
+      <a href="tel:5125550199" class="btn btn--ghost-white btn--lg">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-        Call (512) 867-5309
+        Call (512) 555-0199
       </a>
     </div>
     <div class="hero__trust">
@@ -626,7 +626,7 @@
     <div class="faq-list">
       <details class="faq-item">
         <summary class="faq-item__question">Do you offer same-day service?</summary>
-        <div class="faq-item__answer"><p>Yes! We offer same-day appointments when available. For most requests made before noon, we can have a technician at your door the same day. Call (512) 867-5309 for the fastest scheduling.</p></div>
+        <div class="faq-item__answer"><p>Yes! We offer same-day appointments when available. For most requests made before noon, we can have a technician at your door the same day. Call (512) 555-0199 for the fastest scheduling.</p></div>
       </details>
       <details class="faq-item">
         <summary class="faq-item__question">What does your "done-right guarantee" cover?</summary>
@@ -642,7 +642,7 @@
       </details>
       <details class="faq-item">
         <summary class="faq-item__question">Do you offer emergency service?</summary>
-        <div class="faq-item__answer"><p>Yes, we provide 24/7 emergency HVAC and plumbing service. Call (512) 867-5309 any time &#8212; nights, weekends, and holidays. Emergency rates may apply, but we'll always tell you the cost upfront before starting work.</p></div>
+        <div class="faq-item__answer"><p>Yes, we provide 24/7 emergency HVAC and plumbing service. Call (512) 555-0199 any time &#8212; nights, weekends, and holidays. Emergency rates may apply, but we'll always tell you the cost upfront before starting work.</p></div>
       </details>
       <details class="faq-item">
         <summary class="faq-item__question">What brands do you service?</summary>
@@ -669,9 +669,9 @@
       </div>
       <h2 class="emergency-title">24/7 Emergency Service</h2>
       <p class="emergency-desc">Burst pipe? No heat? AC down in the Texas summer? Our emergency team is available around the clock &#8212; including nights, weekends, and holidays.</p>
-      <a href="tel:5128675309" class="btn btn--white btn--lg emergency-btn">
+      <a href="tel:5125550199" class="btn btn--white btn--lg emergency-btn">
         <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-        Call Now: (512) 867-5309
+        Call Now: (512) 555-0199
       </a>
       <p class="emergency-note">We'll dispatch a technician to your location as fast as possible.</p>
     </div>
@@ -701,7 +701,7 @@
         <div class="form-row">
           <div class="form-group">
             <label for="contact-phone">Phone Number <span class="required">*</span></label>
-            <input type="tel" id="contact-phone" name="phone" required placeholder="(512) 867-5309">
+            <input type="tel" id="contact-phone" name="phone" required placeholder="(512) 555-0199">
           </div>
           <div class="form-group">
             <label for="contact-service">Service Needed</label>
@@ -735,7 +735,7 @@
         <button type="submit" class="btn btn--accent btn--lg btn--full">
           Send Request
         </button>
-        <p class="form-note">We'll respond within 1 business hour. For emergencies, call <a href="tel:5128675309">(512) 867-5309</a>.</p>
+        <p class="form-note">We'll respond within 1 business hour. For emergencies, call <a href="tel:5125550199">(512) 555-0199</a>.</p>
       </form>
       <div class="contact-info">
         <div class="contact-info__card">
@@ -744,7 +744,7 @@
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
             <div>
               <strong>Phone</strong>
-              <a href="tel:5128675309">(512) 867-5309</a>
+              <a href="tel:5125550199">(512) 555-0199</a>
             </div>
           </div>
           <div class="contact-detail">
@@ -816,7 +816,7 @@
         </a>
         <p class="footer__desc">Fast, friendly, and done right the first time. Serving Austin, TX and surrounding areas with expert HVAC and plumbing services.</p>
         <p class="footer__phone">
-          <a href="tel:5128675309">(512) 867-5309</a>
+          <a href="tel:5125550199">(512) 555-0199</a>
         </p>
       </div>
       <div class="footer__col">
@@ -848,7 +848,7 @@
           <li><a href="#contact">Get a Quote</a></li>
           <li><a href="#pricing">Membership Plans</a></li>
           <li><a href="#pricing">Financing</a></li>
-          <li><a href="tel:5128675309">Call (512) 867-5309</a></li>
+          <li><a href="tel:5125550199">Call (512) 555-0199</a></li>
         </ul>
       </div>
     </div>
